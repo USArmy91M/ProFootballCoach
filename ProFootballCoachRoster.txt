@@ -1,5 +1,5 @@
 #Pos, Name, Age, Rookie Year, Pot, FIQ, Dur, Attr1, Attr2, Attr3, Contract Money, Contract Years
-MIN Vikings, MIN
+MIN Voyagers, MIN
 QB, Cody 
 Nelimark, 18, 2017, 99, 99, 99, 99, 99, 99, 0.5, 20
 QB, Case
