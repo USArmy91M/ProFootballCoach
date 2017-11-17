@@ -2,7 +2,7 @@
 Cincinnati Bengals, CIN
 END_PLAYERS
 Baltimore Ravens, BAL
-END_PLAYERSu
+END_PLAYERS
 Buffalo Bills, BUF
 END_PLAYERS
 New England Patriots, NE
